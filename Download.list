@@ -1,3 +1,2 @@
 # 国内下载直连
-rules:
-  - SRC-PORT,8085,DIRECT
+- SRC-PORT,8085,DIRECT
